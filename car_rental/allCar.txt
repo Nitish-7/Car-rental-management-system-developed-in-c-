@@ -1,0 +1,11 @@
+Tata Nexon EV 2020, 130.7 bhp, 30.2 kWh, 312 km, 60 Min(0-80%), 5, ₹8/KM, 3
+Tesla Model S 2021, 825 bhp, 100 kWh, 660 km, 60 Min(0-80%) with supercharger, 5, ₹15/KM, 4
+Tata Tigor EV 2021, 40.23 bhp, 21.5 kWh, 213 km, 120 Min(with fast charger), 5, ₹10/KM, 2
+Mahindra E Verito 2016, 41.57 bhp, 28.8 kWh, 110 km, 90 Min(0-80% with Fast Charger), 5, ₹6/KM, 3
+Hyundai Kona Electric 2021, 134.1 bhp, 39.2 kWh, 452 km, 370 Min(0-100%), 5, ₹10/KM, 3
+Jaguar i-peace 2021, 130.7 bhp, 30.2 kWh, 312 km, 60 Min(0-80%), 5, ₹16/KM, 4
+tesla truck, 110.00bhp, 180.00kWh, 250km, 18Min(0-80%), 7, ₹9/KM, 2
+jaguar, 854.00bhp, 254.00kWh, 250km, 12Min(0-80%), 5, ₹9/KM, 2
+honda, 102.00bhp, 100.00kWh, 265km, 30Min(0-80%), 5, ₹64/KM, 5
+maruti, 80.00bhp, 150.00kWh, 251km, 20Min(0-80%), 5, ₹200/KM, 3
+bugati, 400.00bhp, 362.00kWh, 548km, 40Min(0-80%), 2, ₹400/KM, 2
